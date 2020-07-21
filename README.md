@@ -1,10 +1,10 @@
 ### Hello World! 👋
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="30px">
   <br><br>
   <samp>
-I'm Soham currently a Third Year IT (Information Technology) student <a href="https://vit.edu.in/">@VIT :school: </a> and aspiring Data Scientist :computer:. 
+I'm Soham currently a Third Year IT (Information Technology) student <a href="https://vit.edu.in/" target="_blank">@VIT :school: </a> and aspiring Data Scientist :computer:. 
   <br><br>Contact me on <a href="mailto:sohamsahare123@gmail.com">Gmail</a> 
   </samp>
 </p>
