@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="70px">
   <br><br>
   <samp>
-I'm Soham currently a Third Year IT (Information Technology) student <a href="https://vit.edu.in/" target="_blank">@VIT :school: </a> and aspiring Data Scientist :computer:. 
+I'm Soham currently a Third Year IT (Information Technology) student <a href="https://vit.edu.in/" target="_blank">@VIT</a> :school: and aspiring Data Scientist :computer:. 
   <br><br>Contact me on <a href="mailto:sohamsahare123@gmail.com">Gmail</a> 
   </samp>
 </p>
