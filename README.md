@@ -1,4 +1,4 @@
-## Hello World! 👋
+# Hello World! 👋
 
 <p align="center">
   <br><br>
@@ -14,7 +14,8 @@ I'm Soham currently a Third Year IT (Information Technology) student <a href="ht
 - Machine Learning
 - Deep learning
 - Natural language processing
-- Web Development
+- Web Development 
+- 
 
 <br><br>
 <p align="center">
