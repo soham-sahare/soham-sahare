@@ -14,8 +14,9 @@ I'm Soham currently a Third Year IT (Information Technology) student <a href="ht
 - Machine Learning
 - Deep learning
 - Natural language processing
+- Flask
 - Web Development 
-- 
+- Node.js
 
 <br><br>
 <h3 align="center">
