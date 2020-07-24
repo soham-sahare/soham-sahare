@@ -16,7 +16,7 @@ I'm Soham currently a Third Year IT (Information Technology) student <a href="ht
 - Natural language processing
 - Flask
 - Web Development 
-<br>
+
 <h3 align="center">
   <samp>
   <br><br>Contact me on <a href="mailto:sohamsahare123@gmail.com">Gmail</a> 
