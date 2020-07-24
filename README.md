@@ -7,6 +7,16 @@
 I'm Soham currently a Third Year IT (Information Technology) student <a href="https://vit.edu.in/" target="_blank">@VIT</a> :school: and an aspiring Data Scientist :computer:. 
   <br><br>Contact me on <a href="mailto:sohamsahare123@gmail.com">Gmail</a> 
   </samp>
+### Skills  
+- Python
+- JavaScipt
+- React
+- Web Development
+- Machine Learning
+- Deep learning
+- Natural language processing
+- App Development
+  
   
 </p>
 
