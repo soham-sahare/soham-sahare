@@ -1,10 +1,12 @@
 ### Hello World! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="70px">
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="150px">
   <br><br>
   <samp>
 I'm Soham currently a Third Year IT (Information Technology) student <a href="https://vit.edu.in/" target="_blank">@VIT</a> :school: and an aspiring Data Scientist :computer:. 
+    I am looking forward to work. 
+    
   <br><br>Contact me on <a href="mailto:sohamsahare123@gmail.com">Gmail</a> 
   </samp>
 </p>
