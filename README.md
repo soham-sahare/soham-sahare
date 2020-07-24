@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-<p align="center">
+<p align="center" style="font-size:40px;">
   <br><br>
   <samp>
     <img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
