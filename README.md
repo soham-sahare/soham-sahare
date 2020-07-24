@@ -1,10 +1,9 @@
 ## Hello World! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300px">
   <br><br>
   <samp>
-    <img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" height="300" width="300">
+    <img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 I'm Soham currently a Third Year IT (Information Technology) student <a href="https://vit.edu.in/" target="_blank">@VIT</a> :school: and an aspiring Data Scientist :computer:. 
   <br><br>Contact me on <a href="mailto:sohamsahare123@gmail.com">Gmail</a> 
   </samp>
