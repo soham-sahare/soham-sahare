@@ -18,11 +18,11 @@ I'm Soham currently a Third Year IT (Information Technology) student <a href="ht
 - 
 
 <br><br>
-<h4 align="center">
+<h3 align="center">
   <samp>
   <br><br>Contact me on <a href="mailto:sohamsahare123@gmail.com">Gmail</a> 
   </samp>
-</h4>
+</h3>
 
 ```
 while(alive):
