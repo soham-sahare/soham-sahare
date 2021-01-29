@@ -14,7 +14,7 @@ I'm Soham currently a Third Year IT (Information Technology) student <a href="ht
 - Machine Learning
 - Deep learning
 - Natural language processing
-- Flask
+- Django & Flask
 - Web Development 
 
 <h3 align="center">
