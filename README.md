@@ -19,11 +19,7 @@ I'm Soham currently a Third Year IT (Information Technology) student <a href="ht
 - Django & Flask
 - Web Development 
 
-<h3 align="center">
-  <samp>
-  <br><br>Contact me on <a href="mailto:sohamsahare123@gmail.com">Gmail</a> 
-  </samp>
-</h3>
+
 
 ```
 while(alive):
@@ -31,3 +27,15 @@ while(alive):
     sleep()
     code()
 ```
+
+<h3 align="center">
+  <samp>
+  <br><br>Contact me on <a href="mailto:sohamsahare123@gmail.com">Gmail</a> 
+  </samp>
+  
+  <samp>
+    Contact me on <a href="mailto:sohamsahare123@gmail.com">Gmail</a> <br>
+  [![Codechef: Soham Sahare](https://img.shields.io/badge/Codechef-Soham%20Sahare-brightgreen)](https://www.codechef.com/users/sohamsahare)
+
+  </samp>
+</h3>
