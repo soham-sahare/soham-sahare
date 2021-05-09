@@ -1,5 +1,7 @@
 # Hello World! 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=sohamsahare)
+
 <p align="center">
   <br><br>
   <samp>
