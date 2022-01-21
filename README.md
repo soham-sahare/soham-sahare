@@ -108,8 +108,6 @@ I'm Soham currently a B.E. FInal Year IT (Information Technology) student <a hre
 </a>  
 </div>  
   
-## Also I am into music 🎧🎶 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22yatqypjid3la5cygfebpxca&cover_image=true&theme=default" /></div>  
 <!-- 
 ```
 while(alive):
