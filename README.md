@@ -6,7 +6,7 @@
 <img align="centre" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 </samp>  
 </br>
-I'm Soham currently a B.E. FInal Year IT (Information Technology) student <a href="https://vit.edu.in/" target="_blank">@VIT</a> :school: and an aspiring Data Scientist :computer:. 
+I'm Soham currently a B.E. FInal Year IT (Information Technology) student <a href="https://vit.edu.in/" target="_blank">@VIT</a> :school:. 
 
 </p>
 
