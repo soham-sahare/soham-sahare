@@ -15,7 +15,7 @@ I'm Soham currently a B.E. FInal Year IT (Information Technology) student <a hre
 <a href="https://github.com/sohamsahare123" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-  <a href="https://sohamsahare.herokuapp.com/" target="_blank">
+  <a href="https://sohamsahare.vercel.app/" target="_blank">
 <img src=  https://img.shields.io/badge/website-%232E87FB.svg?&style=for-the-badge&logo=website&logoColor=white
  alt=website style="margin-bottom: 5px;" />
 </a>
